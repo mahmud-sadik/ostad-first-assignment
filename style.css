@@ -1,0 +1,26 @@
+.banner-background {
+  background-image: url("https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 400px;
+}
+
+.banner-title {
+  margin-top: 100px;
+}
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
+}
+.bt-margin {
+  margin-top: 15px;
+}
+
+#resultCard {
+  background-color: transparent;
+  border: none;
+}
